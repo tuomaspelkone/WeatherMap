@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MapDemo",
-    "slug": "MapDemo",
+    "name": "WeatherMap",
+    "slug": "WeatherMap",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
